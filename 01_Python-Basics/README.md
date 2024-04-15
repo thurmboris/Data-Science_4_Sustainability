@@ -1,8 +1,6 @@
 # Colab and Python Notebooks
 
-## What we will cover in the lab
-
-### Colab and notebooks
+## Colab and notebooks
 
 - What are Python notebooks? 
     - They are a complete narrative of code and comments that can render many HTML components, such as images, hyperlinks, videos, etc. Therefore, the goal of a notebook is to demonstrate some code or explain some idea in the most engaging way possible.
@@ -21,14 +19,14 @@
 - How to [load](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb) in Colab an ipynb from Github
 - How to execute some Python code in Colab. How to save your notebook in your Google Drive space.
 
-### Python
+## Python
 
 Python will be the main programming language we will be using throughout this course. To review some basics about Python:
-- Explore the "Python Basics" notebooks in the [Resources](https://github.com/edoardochiarotti/class_datascience/tree/main/2023/01_Introduction/Resources) folder
-- Practice with Python completing the exercises in the [Practice](https://github.com/edoardochiarotti/class_datascience/tree/main/2023/01_Introduction/Practice) folder   
+- Explore the "Python Basics" notebooks
+- Practice with Python completing the exercises in the [Python practise](https://github.com/thurmboris/Data-Science_4_Sustainability/blob/main/01_Python-Basics/01_Python-Practice.ipynb) notebook   
 - You can also follow this [Python course](https://www.kaggle.com/learn/python) from Kaggle.
 
-## Additional resources (optional)
+## Additional resources
 
 - Introduction to [markdown](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
 - Review [this](https://www.markdownguide.org/basic-syntax/) for markdown features or the shorter [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
